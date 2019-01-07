@@ -1,0 +1,3 @@
+[submodule "imad-app"]
+	path = imad-app
+	url = https://github.com/sampath220/imad-app/
